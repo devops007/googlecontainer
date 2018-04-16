@@ -1,0 +1,2 @@
+FROM ghost
+MAINTAINER 502253145@qq.com
